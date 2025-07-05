@@ -1,109 +1,66 @@
-<!-- Add a cool banner image -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GurprextSingh/GurprextSingh/main/banner.png" alt="Banner" width="100%">
-</p>
-
-<h1 align="center">🚀 Hi, I'm Gurprext Singh! 👋</h1>  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;C%2B%2B+%7C+DSA+%7C+OOP+Learner;Web+Development+Enthusiast;Passionate+About+Problem+Solving!">
-</p>  
-
----
-
-## 🏆 **About Me**  
-🎯 **Aspiring Software Developer** | 📚 **Lifelong Learner** | 💡 **Problem Solver**  
-
-🔹 **Currently Learning:** C++ | Object-Oriented Programming (OOP)  
-🔹 **Working On:** Data Structures & Algorithms (DSA)  
-🔹 **Previously Learned:** C Programming | Web Development  
-🔹 **Hobbies:** Competitive Coding | Exploring New Tech  
-🔹 **Dream:** To contribute to **open-source projects** and build impactful software  
-
-💬 **I love coding, solving problems, and working on innovative projects!**  
-💻 **My goal:** To master **full-stack development** and become a **DSA expert.**  
-
----
-
-## 🎓 **Education**  
-🎓 **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
-🏫 **Rayat Bahra University, Chandigarh**  
-📅 **2024 - 2028**  
-
-📌 **Relevant Courses:**  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Web Development  
-- Competitive Programming  
-
----
-
-## 🚀 **Tech Stack & Skills**  
-### 📌 **Programming Languages:**  
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-</p>
-
-### 🌐 **Web Development:**  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-### ⚙️ **Tools & Technologies:**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Gurpreet+Singh;Computer+Science+Engineering+Student;C%2B%2B+%7C+DSA+%7C+Web+Development+Learner" />
 </p>
 
 ---
 
-## 🏆 **Certifications & Achievements**  
-✔ **C++ & OOP Certification** 🏅  
-✔ **DSA Training & Practice** 🏆  
-✔ **Web Development Beginner Project Completion** 💻  
-✔ **GitHub Profile & Repositories Setup** 🚀  
+## About Me
+
+I’m **Gurpreet Singh**, a Computer Science Engineering student focused on building a solid foundation in core programming concepts.  
+My current journey includes mastering **C++**, strengthening **Data Structures & Algorithms**, and learning the fundamentals of **Frontend Web Development** using HTML, CSS, and JavaScript.
 
 ---
 
-## 📂 **My Projects**  
-📌 **[DSA Practice Repository](https://github.com/GurprextSingh/DSA-Practice)** - My solutions to DSA problems.  
-📌 **[Web Development Projects](https://github.com/GurprextSingh/Web-Projects)** - Some cool web applications I built.  
-📌 **More exciting projects coming soon... Stay tuned!** 🚀  
+## 🔧 Currently Practicing
+
+- Writing efficient and optimized logic in **C++**
+- Solving DSA problems for real-world thinking
+- Creating basic responsive layouts using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-## 📊 **GitHub Stats & Activity**  
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurprextSingh&show_icons=true&theme=tokyonight" height="160px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurprextSingh&theme=tokyonight" height="160px">
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurprextSingh&layout=compact&theme=tokyonight" height="160px">
-</p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+</p>
 
 ---
 
-## 📬 **Connect with Me**  
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/GurprextSingh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github">
-  </a>  
-  <a href="https://www.linkedin.com/in/gurpreet-singh-19817b205">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>  
-  <a href="mailto:Gurpreetsingh4174@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>  
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=GurprextSingh&show_icons=true&theme=default&hide_border=true" width="360px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurprextSingh&layout=compact&theme=default&hide_border=true" width="200px" alt="Top Languages" />
+</p>
+
+<!-- Optional: GitHub Streak (Only shows if you have consistent commits) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurprextSingh&theme=default&hide_border=true" width="540px" alt="GitHub Streak" />
+</p>
+
+
 
 ---
 
-## 🎉 **Fun Fact About Me**  
-🚀 **Coding is like solving a puzzle – the more you solve, the better you get!**  
-🔥 **I love debugging & fixing errors—it’s like being a detective in the world of code!**  
-🎯 **"The best way to predict the future is to create it!"**  
+## 📫 Contact
+
+- **LinkedIn**: [linkedin.com/in/gurpreet-singh-reach-](https://www.linkedin.com/in/gurpreet-singh-reach-)
+- **Email**: gurpreetsingh4174@gmail.com
+
+---
+
+## 🎯 Learning Goals
+
+I aim to build a strong foundation in **software development** through continuous improvement in **C++**, **DSA**, and **Frontend Development**.  
+Long-term, I’m preparing to explore deeper domains like **Cybersecurity** and **Ethical Hacking**, backed by real understanding and structured knowledge.
+
+---
+
+> *This README is a reflection of my coding journey, growth mindset, and commitment to learning every single day.*
