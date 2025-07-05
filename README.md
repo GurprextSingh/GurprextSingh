@@ -5,62 +5,69 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I’m **Gurpreet Singh**, a Computer Science Engineering student focused on building a solid foundation in core programming concepts.  
-My current journey includes mastering **C++**, strengthening **Data Structures & Algorithms**, and learning the fundamentals of **Frontend Web Development** using HTML, CSS, and JavaScript.
+I’m **Gurpreet Singh**, a Computer Science Engineering student passionate about building a solid foundation in programming.  
+Currently diving deep into:
+
+- 🧠 **C++** for strong programming fundamentals  
+- 🧮 **Data Structures & Algorithms** for logical thinking  
+- 🌐 **Frontend Development** using HTML, CSS & JavaScript
 
 ---
 
 ## 🔧 Currently Practicing
 
-- Writing efficient and optimized logic in **C++**
-- Solving DSA problems for real-world thinking
-- Creating basic responsive layouts using **HTML**, **CSS**, and **JavaScript**
+- Writing efficient, optimized logic in **C++**
+- Solving **DSA** problems to boost problem-solving skills
+- Creating responsive layouts using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurprextSingh&show_icons=true&theme=default&hide_border=true" width="360px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurprextSingh&layout=compact&theme=default&hide_border=true" width="200px" alt="Top Languages" />
+  <!-- Total GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GurprextSingh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&cache_seconds=86400" width="360px" alt="GitHub Stats" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurprextSingh&layout=compact&langs_count=6&hide_border=true&theme=default&cache_seconds=86400" width="280px" alt="Top Languages" />
 </p>
 
-<!-- Optional: GitHub Streak (Only shows if you have consistent commits) -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurprextSingh&theme=default&hide_border=true" width="540px" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurprextSingh&theme=default&hide_border=true&cache_seconds=86400" width="600px" alt="GitHub Streak" />
 </p>
-
-
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- **LinkedIn**: [linkedin.com/in/gurpreet-singh-reach-](https://www.linkedin.com/in/gurpreet-singh-reach-)
-- **Email**: gurpreetsingh4174@gmail.com
+- 📧 **Email**: gurpreetsingh4174@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/gurpreet-singh-reach-](https://www.linkedin.com/in/gurpreet-singh-reach-)
 
 ---
 
 ## 🎯 Learning Goals
 
-I aim to build a strong foundation in **software development** through continuous improvement in **C++**, **DSA**, and **Frontend Development**.  
-Long-term, I’m preparing to explore deeper domains like **Cybersecurity** and **Ethical Hacking**, backed by real understanding and structured knowledge.
+- Master **C++** and **DSA** for software development roles  
+- Build real projects with **HTML**, **CSS**, and **JavaScript**  
+- Step into **Cybersecurity** and **Ethical Hacking** with a strong foundational base  
+- Maintain consistency and a mindset for continuous growth  
 
 ---
 
-> *This README is a reflection of my coding journey, growth mindset, and commitment to learning every single day.*
+> *This README is a reflection of my learning journey, growth mindset, and passion for problem-solving.*
