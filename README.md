@@ -1,73 +1,122 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Gurpreet+Singh;Computer+Science+Engineering+Student;C%2B%2B+%7C+DSA+%7C+Web+Development+Learner" />
-</p>
+<div align="center">
+
+# Hi 👋, I'm Gurpreet Singh
+
+### Aspiring Software Engineer · Frontend Enthusiast · DSA Explorer
+
+![Profile Views](https://komarev.com/ghpvc/?username=GurprextSingh&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/GurprextSingh?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github)](https://github.com/GurprextSingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreet-singh-19817b205)
+
+</div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I’m **Gurpreet Singh**, a Computer Science Engineering student passionate about building a solid foundation in programming.  
-Currently diving deep into:
+```cpp
+class GurpreetSingh {
+public:
+    string role     = "Aspiring Software Engineer";
+    string focus[]  = { "Frontend Development", "DSA", "Problem Solving" };
+    string stack[]  = { "C++", "JavaScript", "React", "Tailwind CSS" };
+    string goal     = "Become a top-tier Software Engineer";
+    bool   openTo   = true; // open to opportunities
 
-- 🧠 **C++** for strong programming fundamentals  
-- 🧮 **Data Structures & Algorithms** for logical thinking  
-- 🌐 **Frontend Development** using HTML, CSS & JavaScript
+    void currentlyDoing() {
+        sharpening("Logic Building with C++");
+        building("Clean & Responsive UIs with React + Tailwind");
+        grinding("DSA — one problem at a time");
+    }
+};
+```
 
----
-
-## 🔧 Currently Practicing
-
-- Writing efficient, optimized logic in **C++**
-- Solving **DSA** problems to boost problem-solving skills
-- Creating responsive layouts using **HTML**, **CSS**, and **JavaScript**
+- 🔭 Passionate about **Frontend Development** and crafting seamless user experiences
+- 🧠 Consistently sharpening my **DSA skills** with a strong foundation in **C++**
+- 🎯 Goal-oriented and driven to become a **top software engineer**
+- ⚡ Strong believer in writing clean, efficient, and scalable code
+- 🌱 Currently exploring the depths of **React** and **modern web tooling**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-</p>
+<div align="center">
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,js&theme=dark)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)](https://skillicons.dev)
+
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Portfolio Website
+> A personal portfolio built with **React** and **Tailwind CSS**, showcasing my skills, projects, and achievements through a clean, fully responsive, and modern UI.
+
+**Stack:** `React` `Tailwind CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🧮 SGPA Calculator
+> A lightweight **JavaScript-based** tool that allows students to calculate their SGPA quickly and accurately — no fuss, just results.
+
+**Stack:** `JavaScript` `HTML` `CSS`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Total GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GurprextSingh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&cache_seconds=86400" width="360px" alt="GitHub Stats" />
+<div align="center">
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurprextSingh&layout=compact&langs_count=6&hide_border=true&theme=default&cache_seconds=86400" width="280px" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=GurprextSingh&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurprextSingh&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GurprextSingh&theme=default&hide_border=true&cache_seconds=86400" width="600px" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+<img src="https://streak-stats.demolab.com?user=GurprextSingh&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
-## 📫 Contact Me
-
-- 📧 **Email**: gurpreetsingh4174@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/gurpreet-singh-reach-](https://www.linkedin.com/in/gurpreet-singh-reach-)
+</div>
 
 ---
 
-## 🎯 Learning Goals
+## 🤝 Connect With Me
 
-- Master **C++** and **DSA** for software development roles  
-- Build real projects with **HTML**, **CSS**, and **JavaScript**  
-- Step into **Cybersecurity** and **Ethical Hacking** with a strong foundational base  
-- Maintain consistency and a mindset for continuous growth  
+<div align="center">
+
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/GurprextSingh)
+&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/gurpreet-singh-19817b205)
+
+</div>
 
 ---
 
-> *This README is a reflection of my learning journey, growth mindset, and passion for problem-solving.*
+<div align="center">
+
+### 💬 Dev Thought
+
+*"The best code is the code you haven't written yet — because you understood the problem first."*
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
